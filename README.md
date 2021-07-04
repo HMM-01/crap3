@@ -3,6 +3,7 @@ Code for predictive analytics and data science
 
 ## **Hicham's Projects**
 
+### personal-trainer-usage-patterns
 * Running the project:
 To run this project and inspect results, kindly download the notebook file and run it either locally on Jupyter notebook or in Google Colab.
 
