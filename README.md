@@ -12,11 +12,12 @@ Make sure to fix the path of the file in each case accordingly.
 
 * Libraries and requirements:
 All the libraries and their versions used in this project can be downloaded from the requirements.txt file found in the project directory.
-If you run it in Google Colab make sure to download the requirements using the following code:
+
+  If you run it in Google Colab make sure to download the requirements using the following code:
 
   * ``` !pip install -r requirements.text ```
 
-  * If you run it locally use the following command:
+  If you run it locally use the following command:
 
   *  ``` pip install -r requirements.txt ```
 
