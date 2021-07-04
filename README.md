@@ -16,11 +16,13 @@ All the libraries and their versions used in this project can be downloaded from
 
   If you run it in **Google Colab** make sure to download the requirements using the following code:
 
-  ``` !pip install -r requirements.text ```
+  ``` !pip install -r requirements.text
+  ```
 
   If you run it **locally** use the following command:
 
-  ``` pip install -r requirements.txt ```
+  ``` pip install -r requirements.txt
+  ```
 
 
 Anthony's Projects
