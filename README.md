@@ -5,6 +5,7 @@ Code for predictive analytics and data science
 
 ### personal-trainer-usage-patterns
 * Running the project:
+Need to:
 To run this project and inspect results, kindly download the notebook file and run it either locally on Jupyter notebook or in Google Colab.
 
 * Data:
@@ -16,13 +17,13 @@ All the libraries and their versions used in this project can be downloaded from
 
   If you run it in **Google Colab** make sure to download the requirements using the following code:
 
-  ``` 
+  ```
   !pip install -r requirements.text
   ```
 
   If you run it **locally** use the following command:
 
-  ``` 
+  ```
   pip install -r requirements.txt
   ```
 
